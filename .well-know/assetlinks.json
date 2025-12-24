@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.jcze.name",
+            "sha256_cert_fingerprints": [
+                "96:23:CC:EE:03:88:62:33:3F:D2:4F:8E:E0:3A:92:A4:21:EC:2A:28:6A:31:91:38:69:11:EA:3E:8A:8F:8B:90"
+            ]
+        }
+    }
+]
